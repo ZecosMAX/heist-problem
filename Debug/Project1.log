@@ -1,5 +1,0 @@
-﻿  Source.cpp
-C:\Users\zecos\source\repos\Project1\Project1\Source.cpp(29,23): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\zecos\source\repos\Project1\Project1\Source.cpp(31,24): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\zecos\source\repos\Project1\Project1\Source.cpp(35,10): warning C4018: <: несоответствие типов со знаком и без знака
-  Project1.vcxproj -> C:\Users\zecos\source\repos\Project1\Debug\Project1.exe
